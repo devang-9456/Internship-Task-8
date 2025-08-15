@@ -1,0 +1,34 @@
+## Research: NordVPN Encryption and Privacy Features
+ - Encryption: Uses AES-256 encryption for OpenVPN and ChaCha20 with NordLynx. This is the industry standard for robust security.
+ - Protocols: Supports NordLynx (WireGuard-based, fast and secure), OpenVPN (very secure), NordWhisper (for obfuscation), and IKEv2.
+ - Privacy Features: Located in Panama (strong privacy jurisdiction), strict no-logs policy, RAM-only servers (no persistent data), kill switch, double VPN, Onion over VPN, obfuscated servers for anti-censorship.
+ - Advanced: Post-quantum encryption available on most apps as of 2025; Threat Protection blocks ads, trackers, and malware.
+
+## VPN Benefits and Limitations (Specific to NordVPN)
+| Benefits                                                          | Limitations                                         |
+| ----------------------------------------------------------------- | --------------------------------------------------- |
+| AES-256 \& post-quantum encryption                                | Slight speed decrease possible on distant servers   |
+| Hides real IP, unblocks content, works in censorship areas        | Some streaming services may block VPN traffic       |
+| Protects on public Wi-Fi, secures against MITM attacks            | VPN use restricted/illegal in some countries        |
+| Advanced features (Double VPN, Onion over VPN, Threat Protection) | Not fully anonymous (browser/device fingerprinting) |
+| No-logs, RAM-only servers                                         | Mobile split-tunneling limited to Android           |
+| User-friendly; strong kill switch on all apps                     | Dedicated IP costs extra                            |
+
+## Free VPN vs. NordVPN: Quick Comparison
+
+| Feature             | Best Free VPNs (ProtonVPN/Windscribe)                    | NordVPN (Paid)                                                                                         |
+| ------------------- | -------------------------------------------------------- | ------------------------------------------------------------------------------------------------------ |
+| Monthly Data Limit  | Yes (Proton: unlimited with limits; Windscribe: 10GB/mo) | No data/bandwidth caps                                                                                 |
+| Server Locations    | Limited (Proton: 3-5 countries; Windscribe: ~10)         | 6,000+ servers in 60+ countries                                                                        |
+| Encryption Strength | Strong (AES-256)                                         | Strong + post-quantum (AES-256, ChaCha20, NordLynx)                                                    |
+| Speed               | Moderate (can be slow on free servers)                   | Very fast, optimized servers, proprietary protocol                                                     |
+| Privacy Policy      | Good (no-logs, but limited features)                     | Strict no-logs, RAM-only servers, audits                                                               |
+| Advanced Features   | Basic (VPN, Kill Switch, DNS leak protection)            | Kill Switch, split tunneling, Double VPN, Onion over VPN, Threat Protection, obfuscation, dedicated IP |
+| Streaming Support   | Limited (often blocked by Netflix, BBC, etc.)            | Works reliably with Netflix, BBC, Amazon, etc.                                                         |
+| Support/Platforms   | Multiplatform, community and ticket support              | 24/7 live chat, wide device support, browser plugins                                                   |
+| Cost                | Free                                                     | Paid (with robust features)                                                                            |
+
+## Summary:
+Free VPNs like ProtonVPN and Windscribe offer a solid introduction to VPN security with strong encryption and privacy, 
+but are limited in speed, server choice, and advanced features. NordVPN (paid) delivers faster speeds, wider server access, 
+more advanced privacy/safety features, and superior streaming and customer support—making it better suited for regular, security-conscious, or power users.
